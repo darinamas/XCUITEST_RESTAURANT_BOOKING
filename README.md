@@ -1,1 +1,1 @@
-# HSU iOS Orderme app
+# Case Basic Study for XCUITest + Swift + POM 
